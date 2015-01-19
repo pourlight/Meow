@@ -1,2 +1,2 @@
 # Meow
-A Simple Collaboration Markdown Editor
+A Web Simple Collaboration Markdown Editor
