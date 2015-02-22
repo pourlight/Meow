@@ -7,3 +7,4 @@ A Web Simple Collaboration Markdown Editor
 >* Liang Yuyi
 >* Huang Shuqi
 >* Chen Jiayun
+>* Chen Hongfei
