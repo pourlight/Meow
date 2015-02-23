@@ -8,4 +8,4 @@ A Web Simple Collaboration Markdown Editor
 >* Huang Shuqi
 >* Chen Jiayun
 >* Chen Hongfei
-
+>* Chen Wenxue
