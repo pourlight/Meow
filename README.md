@@ -9,3 +9,4 @@ A Web Simple Collaboration Markdown Editor
 >* Chen Jiayun
 >* Chen Hongfei
 >* Chen Wenxue
+>* Cao Can
